@@ -7,7 +7,7 @@
       <p><b>Hangzhou Qiya District Block Chain Technology Company</b></p>
     </td>
     <td width="25%">
-      <img src="/tp.jpg" width="100%">      % 插入证件照代码
+      <img src="/tp.jpg" width="100%">
     </td>
   </tr>
 </table>
