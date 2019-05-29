@@ -1,5 +1,8 @@
 <table border="0">
   <tr>
+    <td width="25%">
+      <img src="/tp.jpg">
+    </td>
     <td width="75%" width="100%">
       <h1>王亚辉</h1>
       <p><b>Master's degree</b></p>
